@@ -1,7 +1,7 @@
 JPEG Decoder
 ======================================
 
-# Environment
+### Environment
 
   - Ubuntu-18.04
   - g++ 7.3.0
@@ -9,7 +9,7 @@ JPEG Decoder
 </br>
 </br>
 
-# Compile with
+### Compile with
 ```C
 $ make
 ```
@@ -17,7 +17,7 @@ $ make
 </br>
 </br>
 
-# Execute with
+### Execute with
 ```C
 $ ./main [image]
 ```
